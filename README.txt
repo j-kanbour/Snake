@@ -1,1 +1,1 @@
-The classic game snake created with assembly language and made to run in terminal
+The classic game of snake created with assembly language and made to run in terminal
